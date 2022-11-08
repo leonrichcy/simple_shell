@@ -1,7 +1,4 @@
 # ALX Simple Shell Team Project
-<p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fawajis.com%2Falx-software-engineering-programme%2F&psig=AOvVaw2g759Pob9kC46y34IyofSI&ust=1668000427861000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOC1jf3XnvsCFQAAAAAdAAAAABAE" width="700" height="400" />
-</p>
 
 > This is an ALX collaboration project on Shell.
 > We were tasked to create a simple shell that mimics the Bash shell.
