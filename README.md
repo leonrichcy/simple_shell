@@ -1,6 +1,6 @@
 # ALX Simple Shell Team Project
 <p align="center">
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" width="700" height="400" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fawajis.com%2Falx-software-engineering-programme%2F&psig=AOvVaw2g759Pob9kC46y34IyofSI&ust=1668000427861000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOC1jf3XnvsCFQAAAAAdAAAAABAE" width="700" height="400" />
 </p>
 
 > This is an ALX collaboration project on Shell.
@@ -8,7 +8,7 @@
 > 
 > Our shell shall be called `hsh`.
 ## Introduction
-This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/TosinISOGUN/alx-low_level_programming)
+This repository is a ALX Software Engineering Project. The project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/leonrichcy/alx-low_level_programming)
 
 The goal in this project is to make us understand how a shell works.
 - To single out some core topics which includes;
@@ -45,7 +45,7 @@ In order to run this program,
 
 Clone This Repo;
 
-`git clone https://github.com/TosinISOGUN/simple_shell.git`
+`git clone https://github.com/leonrichcy/simple_shell.git`
 
 Compile it with;
 
@@ -219,10 +219,10 @@ $
 - [GitHub](https://github.com/OlaoluwaISOGUN)
 - [LinkedIn](https://www.linkedin.com/in/olaoluwa-isogun-31b602247)
 
-### 🤵🏻‍ Oluwatomisin ISOGUN
+### 🤵🏻‍ Solomon Leon Johnson
 
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
+<a href="https://www.linkedin.com/in/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Solomon Leon Johnson | LinkedIn" width="40px"/></a>
+<a href="https://m.facebook.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Solomon Leon Johnson | Facebook" width="40px"/></a>
 <a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
-<a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
-<a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
+<a href="https://www.instagram.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Solomon Leon Johnson | Instagram" width="40px"/></a>
+<a href="https://mobile.twitter.com/leonrichcy/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Solomon Lon Johnson | Twitter" width="40px"/></a>
