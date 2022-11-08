@@ -211,7 +211,7 @@ $
 
 ## AUTHORS
 
-### 🤵🏼 Olaoluwa ISOGUN
+### 🤵🏼Abdul Fatao Abdulrahman 
 - [GitHub](https://github.com/OlaoluwaISOGUN)
 - [LinkedIn](https://www.linkedin.com/in/olaoluwa-isogun-31b602247)
 
